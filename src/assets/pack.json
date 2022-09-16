@@ -1,0 +1,36 @@
+{
+  "blastPack": {
+    "files": [
+      {
+        "type": "image",
+        "key": "background",
+        "url": "./src/assets/images/background.png"
+      },
+      {
+        "type": "image",
+        "key": "tile_blue",
+        "url": "./src/assets/images/tiles/tile_blue.png"
+      },
+      {
+        "type": "image",
+        "key": "tile_green",
+        "url": "./src/assets/images/tiles/tile_green.png"
+      },
+      {
+        "type": "image",
+        "key": "tile_purple",
+        "url": "./src/assets/images/tiles/tile_purple.png"
+      },
+      {
+        "type": "image",
+        "key": "tile_red",
+        "url": "./src/assets/images/tiles/tile_red.png"
+      },
+       {
+        "type": "image",
+        "key": "tile_yellow",
+        "url": "./src/assets/images/tiles/tile_yellow.png"
+      }
+    ]
+  }
+}
