@@ -5,15 +5,10 @@ const config: GameConfig = {
   width: 1920,
   height: 1080,
   parent: "game",
+  type: Phaser.AUTO,
   scene: [GameScene],
   input: {
     keyboard: true
-  },
-  physics: {
-    default: "arcade",
-    arcade: {
-      gravity: { y: 300 }
-    }
   }
 };
 
